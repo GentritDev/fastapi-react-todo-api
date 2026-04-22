@@ -155,4 +155,4 @@ curl -X DELETE http://localhost:8000/todo/1
 
 ## Author
 
-- GitHub: [@GentritSE](https://github.com/GentritSE)
+- GitHub: [@GentritDev](https://github.com/GentritDev)
